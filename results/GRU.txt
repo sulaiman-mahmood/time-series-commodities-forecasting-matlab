@@ -1,0 +1,2 @@
+Mean Squared Error for Commodity 1: 0.010247
+Mean Squared Error for Commodity 2: 0.007759

@@ -1,0 +1,14 @@
+# MATLAB temporary files
+*.asv
+*.mat
+*.fig
+slprj/
+
+# Data (keep samples only)
+data/*.xlsx
+data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
