@@ -114,3 +114,6 @@ A condensed research summary based on my MSc dissertation is available here:
 
 
 
+## Publication
+This research summary based on my MSc dissertation is published on Zenodo and is citable via the following DOI:  
+https://doi.org/10.5281/zenodo.18521728
