@@ -107,3 +107,8 @@ and is shared here for **academic, research, and portfolio purposes**.
 - Data is publicly available (IMF)
 - No private or sensitive information is included
 - Original work with full academic attribution
+
+## Research Summary
+A condensed research summary of the MSc dissertation is available here:  
+[PDF – MSc Dissertation Summary](docs/MSc_Dissertation_Research_Summary.pdf)
+
