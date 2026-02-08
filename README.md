@@ -110,5 +110,6 @@ and is shared here for **academic, research, and portfolio purposes**.
 
 ## Research Summary
 A condensed research summary of the MSc dissertation is available here:  
-[PDF – MSc Dissertation Summary](docs/MSc_Dissertation_Research_Summary.pdf)
+[PDF – MSc Dissertation Summary](docs/Deep Learning Approaches to Commodity Price Forecasting.pdf)
+
 
