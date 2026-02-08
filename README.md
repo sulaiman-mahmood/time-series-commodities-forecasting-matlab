@@ -109,7 +109,8 @@ and is shared here for **academic, research, and portfolio purposes**.
 - Original work with full academic attribution
 
 ## Research Summary
-A condensed research summary of the MSc dissertation is available here:  
-[PDF – MSc Dissertation Summary](docs/Deep Learning Approaches to Commodity Price Forecasting.pdf)
+A condensed research summary based on my MSc dissertation is available here:  
+[PDF – Deep Learning Approaches to Commodity Price Forecasting](docs/Deep%20Learning%20Approaches%20to%20Commodity%20Price%20Forecasting.pdf)
+
 
 
